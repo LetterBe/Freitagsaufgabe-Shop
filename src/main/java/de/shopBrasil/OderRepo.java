@@ -10,7 +10,6 @@ public class OderRepo {
 
     public List<Oder> list() {
         return listOfOrders;
-
     }
 
     public Oder getOneOrder(int id) {
